@@ -1,1 +1,1 @@
-# Excel-Data-Analysis
+This files are part of the KPMG-virtual intership with InsideSherpa. This was a fantastic opportunity to understand how it like to work in real world or data analytics field. I have learned a lot from this short internship.
